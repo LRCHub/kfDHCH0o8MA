@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "∞",
+  "base_artist": "HACHI",
+  "createdAt": "2026-03-23T08:27:03.921432Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "∞",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_∞_HACHI.txt"
+    }
+  ]
+}
